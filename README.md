@@ -1,3 +1,4 @@
+{
 # Implement A Multiplication Table
 
 Please read the following requirement:
